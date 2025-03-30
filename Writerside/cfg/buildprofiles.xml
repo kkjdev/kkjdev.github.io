@@ -4,6 +4,8 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
+        <web-root>https://kkjdev.github.io</web-root>
+        <content-max-width>1680</content-max-width>
         <analytics-body-html-file>google-analytics.html</analytics-body-html-file>
         <analytics-head-script-file>google-analytics-noscript.html</analytics-head-script-file>
     </variables>
@@ -11,6 +13,7 @@
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
+        <sitemap priority="0.5" change-frequency="daily"/>
     </build-profile>
 
 </buildprofiles>

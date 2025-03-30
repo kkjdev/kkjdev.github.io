@@ -1,4 +1,4 @@
-# Labels
+# Writerside
 
 <primary-label ref="author"/>
 <secondary-label ref="2025"/>

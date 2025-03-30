@@ -1,4 +1,4 @@
-# KkjDev
+# Labels
 
 <primary-label ref="author"/>
 <secondary-label ref="2025"/>

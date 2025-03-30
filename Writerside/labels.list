@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="author" short-name="KKJ" name="KkjDev" href="https://kkjdev.github.io" color="blue">
+        Go to www.jetbrains.com
+    </primary-label>
+
+    <secondary-label id="2025" name="2025" color="tangerine">작성년도 2025년</secondary-label>
+    <secondary-label id="writing" name="작성중" color="strawberry">작성중인 페이지</secondary-label>
+</labels>

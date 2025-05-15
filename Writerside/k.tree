@@ -7,6 +7,7 @@
                  start-page="main.md">
 
     <toc-element topic="main.md">
+        <toc-element topic="GIT.md"/>
         <toc-element toc-title="Github Pages">
             <toc-element topic="writerside.md"/>
         </toc-element>

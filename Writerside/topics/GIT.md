@@ -25,7 +25,7 @@ Cursor AI IDE 설치
 ```shell
 git clone https://git.kkj99.click/dongpal73/AiToDo.git
 ```
-### 
+
 ### 2. 생성된 폴더를 VSCode 에서 오픈
-![cursor-1](cursor-1)
+![cursor-1](cursor-1.png)
 
